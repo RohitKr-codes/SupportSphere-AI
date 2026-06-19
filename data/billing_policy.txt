@@ -1,0 +1,9 @@
+Billing Policy
+
+Payments are processed automatically.
+
+Refund requests must be submitted within 7 days.
+
+Billing disputes are reviewed within 3 business days.
+
+Premium plans renew automatically.
